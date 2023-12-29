@@ -1,0 +1,17 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Weight Gauge.PrjPcb]
+   Generated File[PCB print.GBL]
+   Generated File[PCB print.GBS]
+   Generated File[PCB print.GPB]
+   Generated File[PCB print.GD1]
+   Generated File[PCB print.GG1]
+   Generated File[PCB print.RUL]
+   Generated File[PCB print.EXTREP]
+   Generated File[PCB print.REP]
+
+
+Files Generated   : 8
+Documents Printed : 0
+
+Finished Output Generation At 9:14:58 AM On 12/28/2023

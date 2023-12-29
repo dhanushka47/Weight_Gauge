@@ -1,0 +1,6 @@
+Added Component: Designator=Cry?(16mhz crystal)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC4_2 Pin=Cry?-1
+Added Pin To Net: NetName=NetC3_2 Pin=Cry?-2
+Added Member To Class: ClassName=Weight Gauge Schematic Member=Component Cry? 16mhz 
+Added Room: Name=Weight Gauge Schematic

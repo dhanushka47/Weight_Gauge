@@ -1,0 +1,141 @@
+Added Component: Designator=C1(100uF Capacitor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(100uF Capacitor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(22nF capacitor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(22nF capacitor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C5(22nF capacitor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Co1(oled connector i2c)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Co2(FTDI)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Con1(2 pin  connector)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Con2(4 pin connector)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Con3(2 pin  connector)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Con4(2 pin  connector)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Con5(2 pin  connector)
+Add component. Clean all parameters for all variants
+Added Component: Designator=IC1(Atmega328 TH)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MO1(HX711 MODULE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MO2(sim800l module)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PW1(Power_connector)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(Resistor Vertical)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(Resistor Vertical)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(Resistor Vertical)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(Resistor Vertical)
+Add component. Clean all parameters for all variants
+Added Component: Designator=V1(LM7805CT)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=Co1-1
+Added Pin To Net: NetName=GND Pin=Co2-1
+Added Pin To Net: NetName=GND Pin=IC1-8
+Added Pin To Net: NetName=GND Pin=IC1-22
+Added Pin To Net: NetName=GND Pin=MO1-7
+Added Pin To Net: NetName=GND Pin=MO2-5
+Added Pin To Net: NetName=GND Pin=PW1-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=V1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=Con1-1
+Added Pin To Net: NetName=NetC1_1 Pin=V1-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=Co1-2
+Added Pin To Net: NetName=NetC2_1 Pin=Co2-2
+Added Pin To Net: NetName=NetC2_1 Pin=Con4-1
+Added Pin To Net: NetName=NetC2_1 Pin=Con5-1
+Added Pin To Net: NetName=NetC2_1 Pin=IC1-7
+Added Pin To Net: NetName=NetC2_1 Pin=MO1-10
+Added Pin To Net: NetName=NetC2_1 Pin=MO2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R1-1
+Added Pin To Net: NetName=NetC2_1 Pin=V1-3
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=IC1-9
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=IC1-10
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=Co2-5
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=IC1-1
+Added Pin To Net: NetName=NetC5_2 Pin=R1-2
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetCo1_3 Pin=Co1-3
+Added Pin To Net: NetName=NetCo1_3 Pin=IC1-28
+Added Net: Name=NetCo1_3
+Added Pin To Net: NetName=NetCo1_4 Pin=Co1-4
+Added Pin To Net: NetName=NetCo1_4 Pin=IC1-27
+Added Net: Name=NetCo1_4
+Added Pin To Net: NetName=NetCo2_3 Pin=Co2-3
+Added Pin To Net: NetName=NetCo2_3 Pin=IC1-2
+Added Net: Name=NetCo2_3
+Added Pin To Net: NetName=NetCo2_4 Pin=Co2-4
+Added Pin To Net: NetName=NetCo2_4 Pin=IC1-3
+Added Net: Name=NetCo2_4
+Added Pin To Net: NetName=NetCon1_2 Pin=Con1-2
+Added Pin To Net: NetName=NetCon1_2 Pin=PW1-1
+Added Net: Name=NetCon1_2
+Added Pin To Net: NetName=NetCon2_1 Pin=Con2-1
+Added Pin To Net: NetName=NetCon2_1 Pin=MO1-4
+Added Net: Name=NetCon2_1
+Added Pin To Net: NetName=NetCon2_2 Pin=Con2-2
+Added Pin To Net: NetName=NetCon2_2 Pin=MO1-3
+Added Net: Name=NetCon2_2
+Added Pin To Net: NetName=NetCon2_3 Pin=Con2-3
+Added Pin To Net: NetName=NetCon2_3 Pin=MO1-2
+Added Net: Name=NetCon2_3
+Added Pin To Net: NetName=NetCon2_4 Pin=Con2-4
+Added Pin To Net: NetName=NetCon2_4 Pin=MO1-1
+Added Net: Name=NetCon2_4
+Added Pin To Net: NetName=NetCon3_1 Pin=Con3-1
+Added Pin To Net: NetName=NetCon3_1 Pin=R3-1
+Added Net: Name=NetCon3_1
+Added Pin To Net: NetName=NetCon3_2 Pin=Con3-2
+Added Pin To Net: NetName=NetCon3_2 Pin=IC1-16
+Added Net: Name=NetCon3_2
+Added Pin To Net: NetName=NetCon4_2 Pin=Con4-2
+Added Pin To Net: NetName=NetCon4_2 Pin=IC1-13
+Added Pin To Net: NetName=NetCon4_2 Pin=R2-1
+Added Net: Name=NetCon4_2
+Added Pin To Net: NetName=NetCon5_2 Pin=Con5-2
+Added Pin To Net: NetName=NetCon5_2 Pin=IC1-14
+Added Pin To Net: NetName=NetCon5_2 Pin=R4-2
+Added Net: Name=NetCon5_2
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-4
+Added Pin To Net: NetName=NetIC1_4 Pin=MO2-4
+Added Net: Name=NetIC1_4
+Added Pin To Net: NetName=NetIC1_5 Pin=IC1-5
+Added Pin To Net: NetName=NetIC1_5 Pin=MO2-3
+Added Net: Name=NetIC1_5
+Added Pin To Net: NetName=NetIC1_6 Pin=IC1-6
+Added Pin To Net: NetName=NetIC1_6 Pin=MO1-8
+Added Net: Name=NetIC1_6
+Added Pin To Net: NetName=NetIC1_11 Pin=IC1-11
+Added Pin To Net: NetName=NetIC1_11 Pin=MO1-9
+Added Net: Name=NetIC1_11
+Added Class: Name=Weight Gauge Schematic
+Added Room: Name=Weight Gauge Schematic
